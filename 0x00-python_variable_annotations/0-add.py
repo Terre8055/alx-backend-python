@@ -2,7 +2,7 @@
 """Module to return sum of two floats"""
 
 
-def add (a: float, b: float) -> float:
+def add(a: float, b: float) -> float:
     """Add two parameters
 
     Args:
