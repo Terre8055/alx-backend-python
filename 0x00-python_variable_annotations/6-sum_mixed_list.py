@@ -9,6 +9,3 @@ def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> float:
     for i in mxd_lst:
         init_fig += i
     return init_fig
-
-
-print(sum_mixed_list.__annotations__)
